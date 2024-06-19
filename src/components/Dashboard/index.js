@@ -55,6 +55,7 @@ const Dashboard = ({ setIsAuthenticated }) => {
 
   return (
     <div className="container">
+      <span>🍓 oh hey 👋</span>
       {!isAdding && !isEditing && (
         <>
           <Header
